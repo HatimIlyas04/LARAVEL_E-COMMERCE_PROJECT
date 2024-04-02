@@ -9,12 +9,19 @@
         <link id="color-link" rel="stylesheet" type="text/css" href="{{ asset('assets/css/demo2.css') }}">
 
 </head>
+<style>
+      .product-box .product-details h5 {
+    width: 100%;
+    }
+</style>
 {{-- <link id="color-link" rel="stylesheet" type="text/css" href="assets/css/demo2.css"> --}}
+
    
 <body>
     @extends('layouts.base')
     @push('styles')
     <style>
+      
         nav svg{
             height: 20px;
         }

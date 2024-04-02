@@ -16,7 +16,7 @@ Route::post('/cart/store', [CartController::class, 'addToCart'])->name('cart.sto
 
 
 
-// Auth::routes();
+Auth::routes();
 
 
 Route::middleware('auth')->group(function () {
@@ -24,10 +24,12 @@ Route::middleware('auth')->group(function () {
     Route::get('/admin', [AdminController::class , 'index'])->name('admin.index');
 
 });
-// Route::middleware(['auth' , 'Admin'])->group(function () {
-//     Route::get('/admin', [AdminController::class , 'index'])->name('admin.index');
+// File: routes/web.php
 
-// });
+Route::middleware(['auth', 'admin'])->group(function () {
+    Route::get('/admin', [AdminController::class, 'index'])->name('admin.index');
+});
+
 
 
 
