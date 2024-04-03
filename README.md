@@ -2,7 +2,7 @@
 
 Welcome to HOLAZOMI, your one-stop destination for all your online shopping needs! 🎉
 
-![HOLAZOMI Logo](public/assets/images/logoH.png)
+![HOLAZOMI Logo](public/assets/images/logoH.png){: style="max-width: 100%; height: auto;" }
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -60,6 +60,7 @@ To get started with HOLAZOMI, follow these simple steps:
 
     # Visit http://localhost:8000 in your web browser to access HOLAZOMI.
 ## Usage
+
 Once you have installed HOLAZOMI, you can start exploring the platform and enjoying its features right away. Here are some common tasks you can perform:
 
 - Browse through products using the navigation menu or search bar.
@@ -68,7 +69,10 @@ Once you have installed HOLAZOMI, you can start exploring the platform and enjoy
 - Explore special offers, discounts, and promotions available on the platform.
 - Contact our support team if you need any assistance or have any questions.
 
+
+
 ## Contributing
+
 We welcome contributions from the community to help improve HOLAZOMI and make it even better! If you'd like to contribute, please follow these guidelines:
 
 1. Fork the repository and create a new branch for your feature or bug fix.
@@ -77,6 +81,7 @@ We welcome contributions from the community to help improve HOLAZOMI and make it
 4. Submit a pull request with a detailed description of your changes and why they are necessary.
 
 ## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Created by: 🚀 **Hatim Ilyas**, 💼 **Moslih Badr**, 🎨 **Tiguini Ahmed**, 🛠️ **Youssef Goukahi**, and 📊 **Jamal Jack**.
