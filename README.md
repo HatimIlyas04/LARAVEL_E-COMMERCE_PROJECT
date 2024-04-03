@@ -1,9 +1,8 @@
-
 # HOLAZOMI E-commerce Platform 🛒
 
 Welcome to HOLAZOMI, your one-stop destination for all your online shopping needs! 🎉
 
-![Alt text](public/assets/images/logoH.png)
+![HOLAZOMI Logo](public/assets/images/logoH.png)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -80,5 +79,4 @@ We welcome contributions from the community to help improve HOLAZOMI and make it
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Created by: Hatim Ilyas, Moslih Badr, Tiguini Ahmed, Youssef Goukahi, and Jamal Jack.
-
+## Created by: 🚀 **Hatim Ilyas**, 💼 **Moslih Badr**, 🎨 **Tiguini Ahmed**, 🛠️ **Youssef Goukahi**, and 📊 **Jamal Jack**.
