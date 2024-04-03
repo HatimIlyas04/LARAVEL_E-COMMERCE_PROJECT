@@ -3,7 +3,7 @@
 
 Welcome to HOLAZOMI, your one-stop destination for all your online shopping needs! 🎉
 
-![HOLAZOMI Logo](assets/images/logoH.png)
+![Alt text](public/assets/images/logoH.png)
 
 ## Table of Contents
 1. [Introduction](#introduction)
