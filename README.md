@@ -86,4 +86,4 @@ We welcome contributions from the community to help improve HOLAZOMI and make it
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Created by: 🚀 **Hatim Ilyas**, 💼 **Moslih Badr**, 🎨 **Tiguini Ahmed**, 🛠️ **Youssef Goukahi**, and 📊 **Jamal Jack**.
+## Created by: 🚀 **Hatim Ilyas**, 💼 **Moslih Badr**, 🎨 **Tiguini Ahmed**, 🛠️ **Youssef foukahi**,📊 **Jamal Jack**.
