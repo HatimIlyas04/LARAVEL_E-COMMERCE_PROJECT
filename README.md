@@ -3,7 +3,7 @@
 Welcome to HOLAZOMI, your one-stop destination for all your online shopping needs! 🎉
 
 <div style="text-align: center;">
-    <img src="public/assets/images/logoH.png" alt="HOLAZOMI Logo" width="500">
+    <img src="public/assets/images/logoH.png" alt="HOLAZOMI Logo" width="400">
 </div>
 
 ## Table of Contents
