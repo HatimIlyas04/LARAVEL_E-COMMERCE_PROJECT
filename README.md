@@ -38,7 +38,7 @@ To get started with HOLAZOMI, follow these simple steps:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/holazomi.git
+   git clone https://github.com/HatimIlyas04/LARAVEL_E-COMMERCE_PROJECT
 # Navigate to the project directory
     cd holazomi
 
