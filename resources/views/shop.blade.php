@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge"> 
     <title>HOLAZOMI</title> 
         <link id="color-link" rel="stylesheet" type="text/css" href="{{ asset('assets/css/demo2. css') }}">
- 
+  
 </head>
 <style>
       .product-box .product-details h5 {
