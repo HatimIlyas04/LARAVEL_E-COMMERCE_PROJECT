@@ -11,7 +11,7 @@
 </head>
 <style>
       .product-box .product-details h5 {
-    width: 100%;
+    width: 100%; 
     }
 </style>
 {{-- <link id="color-link" rel="stylesheet" type="text/css" href="assets/css/demo2.css"> --}}
