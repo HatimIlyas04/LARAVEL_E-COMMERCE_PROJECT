@@ -12,7 +12,7 @@ Route::get('/', [appController::class , 'index'])->name('app.index');
 Route::get('/shop' , [ShopController::class , 'index'])->name('shop.index');  
 Route::get('/product/{slug}' , [ShopController::class , 'ProductDetails'])->name('shop.product.details'); 
 Route::get('/cart',[CartController::class,'index'])->name('cart.index');
-Route::post('/cart/store', [CartController::class, 'addToCart'])->name('cart.store');
+Route::post('/cart/store', [CartController::class, 'addToCart'])->name('cart.store'); 
 Route::put('/cart/update', [CartController::class, 'updateCart'])->name('cart.update');
 Route::delete('/cart/remove', [CartController::class, 'removeItem'])->name('cart.remove'); 
 Route::delete('/cart/clear', [CartController::class, 'clearCart'])->name('cart.clear');  
