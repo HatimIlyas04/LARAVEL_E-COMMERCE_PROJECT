@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route; 
 
 Route::get('/', [appController::class , 'index'])->name('app.index');
-Route::get('/shop' , [ShopController::class , 'index'])->name('shop.index'); 
+Route::get('/shop' , [ShopController::class , 'index'])->name('shop.index');  
 Route::get('/product/{slug}' , [ShopController::class , 'ProductDetails'])->name('shop.product.details');
 Route::get('/cart',[CartController::class,'index'])->name('cart.index');
 Route::post('/cart/store', [CartController::class, 'addToCart'])->name('cart.store');
