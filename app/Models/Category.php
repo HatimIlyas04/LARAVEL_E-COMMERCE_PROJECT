@@ -10,5 +10,5 @@ class Category extends Model
     use HasFactory;
     function product (){
         $this->hasMany(Product::class, 'category_id');
-    }
+    } 
 }
