@@ -19,6 +19,7 @@ return new class extends Migration
             $table->string('password');
             $table->string('utype')->default('USR');
             $table->rememberToken();
+            $table->rememberToken();
             $table->timestamps();
         });
 
